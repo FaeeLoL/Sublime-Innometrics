@@ -1,0 +1,53 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Plugins",
+                "mnemonic": "P",
+                "id": "plugin-settings",
+                "children":
+                [
+                    {
+                        "caption": "Innometrics",
+                        "mnemonic": "I",
+                        "children":
+                        [
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/sublime-innometrics/sublime-innometrics.sublime-settings"
+                                },
+                                "caption": "Settings"
+                            },
+                             {
+                                "command": "start_innometrics",
+                                "args": {},
+                                "caption": "Start tracking"
+                            },
+                            {
+                                "command": "stop_innometrics",
+                                "args": {},
+                                "caption": "Stop tracking"
+                            },
+                             {
+                                "command": "send_innometrics",
+                                "args": {},
+                                "caption": "Send Innometrics"
+                            },                            
+                            {
+                                "command": "innometrics_info",
+                                "args": {},
+                                "caption": "Show current metrics"
+                            },
+                            { "caption": "-" }
+                        ] 
+                    }
+                ]   
+            }
+        ]
+    }
+]

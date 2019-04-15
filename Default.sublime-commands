@@ -1,0 +1,13 @@
+[
+  {
+    "caption": "Innometrics",
+    "command": "innometrics"
+  },
+  {
+    "caption": "login settings",
+    "command": "open_file",
+    "args": {
+      "file": "${packages}/innometrics/innometrics.sublime-settings"
+    }
+  }
+]

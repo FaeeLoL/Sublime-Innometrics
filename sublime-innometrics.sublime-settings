@@ -1,0 +1,9 @@
+{
+	"server_url": "https://innometric.guru:8120",
+	"debug": false,
+	"idle" : 300,   //counting file timeout
+	"date_format" : "%d.%m.%Y",
+	// Please fill the email and password
+	"email": "test.ttt@gmail.com",
+	"password": "test",
+}
