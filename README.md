@@ -1,7 +1,7 @@
-# innometrics-SublimeText3
+# Innometrics-SublimeText3
 InnoMetrics plugin for SublimeText3
 
-##Install
+## Install
 - Quit Sublime
 
 - Go to folder Packages:
@@ -10,7 +10,7 @@ InnoMetrics plugin for SublimeText3
     - Linux: ~/.config/sublime-text-3/Packages/
 - Run: git clone https://github.com/FaeeLoL/sublime-innometrics.git
 
-- Open Sublime and try to use.  
+- Open Sublime.  
 
 ## Log-in
 
